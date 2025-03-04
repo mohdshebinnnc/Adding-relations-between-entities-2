@@ -9,7 +9,7 @@
 - **Repository:** Start with the provided boilerplate code.
 - **File Structure:**
   - `App.jsx` – Contains the parent component and the static products array.
-  - `/components/ProductCard.jsx` – Displays individual product details.
+  - `/components/ProductCard.jsx` – Displays individual product details.       
   - `/components/RatingWidget.jsx` – Allows users to select and submit a rating.
 
 ## Assignment Instructions
